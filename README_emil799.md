@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emil799
-- 👀 I'm interested in HTML/CSS/Javascript, Java/Swing, C/C++, C#, SQL/MySQL, Q.A.
+- 👀 I'm interested in HTML/CSS/Javascript, Java/Swing, C/C++, C#, SQL/MySQL, Q.A., PHP.
 - 🌱 I’m currently studying at Plovdiv University
 "Paisii Hilendarski", majoring in Informatics.
 I'm currently a third year student.
