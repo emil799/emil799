@@ -25,7 +25,7 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://fb.com/emil0179" target="_blank">
+  <a href="https://www.facebook.com/emil79299/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
