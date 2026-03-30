@@ -61,7 +61,7 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 ### 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=pie&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=FFFFFF" alt="Most Used Languages" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=FFFFFF" alt="Most Used Languages" width="450" />
 </div>
 
 <br/>
