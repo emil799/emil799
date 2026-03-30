@@ -61,13 +61,6 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 ### 📊 GitHub Statistics
 
 <div align="center">
-  
-  <!-- Total Contributions Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=emil799&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D9C7C&icon_color=2D9C7C&text_color=FFFFFF&custom_title=Total%20Contributions" alt="GitHub Stats" />
-  
-  <br/>
-  <br/>
-  
   <!-- Most Used Languages - Separate Section -->
   <h3 align="center">📈 Most Used Languages</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil799&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
