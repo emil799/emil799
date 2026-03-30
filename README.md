@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emil Medarov</h1>
+
 <!-- Header / Animated Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+emil799;Software+Developer;A+passionate+developer+from+Bulgaria" alt="Typing SVG" />
@@ -15,7 +16,7 @@
 
 I'm a passionate software developer from **Bulgaria** with a love for building robust and scalable applications.
 
-- 🌱 I’m currently learning more about **React, Vue, Angular**
+- 🌱 I'm currently learning more about **React, Vue, Angular**
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/emil799?tab=repositories)**
 - 📫 How to reach me: **medarov79@gmail.com**
 - 📄 Know about my experiences: **[My Portfolio Website](https://emil799.github.io/Emil%20Medarov's%20Personal%20Portfolio%20Website/)**
@@ -61,17 +62,18 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Most Used Languages - Separate Section -->
-  <h3 align="center">📈 Most Used Languages</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil799&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  
-  <br/>
-  <br/>
-  
-  <!-- Current Streak and Longest Streak -->
-  <h3 align="center">⚡ GitHub Streak Statistics</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil799&theme=vue-dark&hide_border=true&background=0D1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D9C7C&sideLabels=2D9C7C" alt="GitHub Streak" />
-  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📈 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=compact&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ GitHub Streak Statistics</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil799&hide_border=true&background=0D1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D9C7C&sideLabels=2D9C7C&dates=FFFFFF" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
