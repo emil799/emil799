@@ -1,4 +1,4 @@
-Събери ги на един ред(Most used languages и Github streak statistics): <h1 align="center">Hi 👋, I'm Emil Medarov</h1>
+<h1 align="center">Hi 👋, I'm Emil Medarov</h1>
 <!-- Header / Animated Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2D9C7C&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+emil799;Software+Developer;A+passionate+developer+from+Bulgaria" alt="Typing SVG" />
