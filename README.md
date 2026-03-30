@@ -70,7 +70,7 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
   
   <!-- Most Used Languages - Separate Section -->
   <h3 align="center">📈 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil799&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
   
   <br/>
   <br/>
@@ -96,7 +96,3 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=2D9C7C" alt="Random Dev Quote" />
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil799&show_icons=true&locale=en&layout=compact" alt="emil799" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil799&show_icons=true&locale=en" alt="emil799" /></p>
