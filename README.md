@@ -15,7 +15,7 @@
 
 I'm a passionate software developer from **Bulgaria** with a love for building robust and scalable applications.
 
-- 🌱 I’m currently learning more about **React, Vue, Angular**
+- 🌱 I'm currently learning more about **React, Vue, Angular**
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/emil799?tab=repositories)**
 - 📫 How to reach me: **medarov79@gmail.com**
 - 📄 Know about my experiences: **[My Portfolio Website](https://emil799.github.io/Emil%20Medarov's%20Personal%20Portfolio%20Website/)**
@@ -36,7 +36,7 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -58,20 +58,23 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C&icon_color=2D9C7C&text_color=FFFFFF" alt="Most Used Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil799&theme=vue-dark&hide_border=true&background=0D1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D9C7C&sideLabels=2D9C7C" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emil799&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=FFFFFF&icon_color=2D9C7C" alt="Most Used Languages" />
 </div>
+
+<br/>
+
+### 📈 GitHub Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emil799&theme=vue-dark&hide_border=true&background=0D1117&stroke=2D9C7C&ring=2D9C7C&fire=2D9C7C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2D9C7C&sideLabels=2D9C7C" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+### 📊 Total Contributions & Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emil799&bg_color=0D1117&color=2D9C7C&line=2D9C7C&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
