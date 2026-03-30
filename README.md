@@ -96,4 +96,3 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=2D9C7C" alt="Random Dev Quote" />
 </div>
- Github stats не се визуализира и не функционира правилно
