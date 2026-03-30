@@ -96,3 +96,7 @@ I'm a passionate software developer from **Bulgaria** with a love for building r
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=2D9C7C" alt="Random Dev Quote" />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil799&show_icons=true&locale=en&layout=compact" alt="emil799" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil799&show_icons=true&locale=en" alt="emil799" /></p>
